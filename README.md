@@ -27,6 +27,8 @@ I'm a **4th-year IT student** passionate about coding, design, and creating impa
   Designing **user-friendly interfaces** and **creative visual content**.
 - **Networking:**
   Knowledgeable in networking concepts with **NCII certificates**.
+- **Networking:**
+  Knowledgeable in data mining techniques, utilizing Anaconda Prompt and Jupyter Notebook for analyzing data.
 - **Robotics**
   Created projects like a **line follower robot** using NodeMCU ESP8266.
 - **IoT Systems**
@@ -45,7 +47,7 @@ I'm a **4th-year IT student** passionate about coding, design, and creating impa
   **HTML**, **JavaScript** , **C**, **C++**, **Dart**, **Flutter**, **Java**, **Python** 
 
 - **Tools & Platforms:**  
-  **Canva** (Certified), **Adobe Photoshop**, **Excel**, **Google Sheets**, **PowerPoint**, **VS Code**, **Arduino"
+  **Canva** (Certified), **Adobe Photoshop**, **Excel**, **Google Sheets**, **PowerPoint**, **VS Code**, **Arduino**
 
 ---
 
