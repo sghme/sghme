@@ -27,12 +27,12 @@ I'm a **4th-year IT student** passionate about coding, design, and creating impa
   Designing **user-friendly interfaces** and **creative visual content**.
 - **Networking:**
   Knowledgeable in networking concepts with **NCII certificates**.
-- **Networking:**
-  Knowledgeable in data mining techniques, utilizing Anaconda Prompt and Jupyter Notebook for analyzing data.
-- **Robotics**
-  Created projects like a **line follower robot** using NodeMCU ESP8266.
-- **IoT Systems**
-  Developed an IoT-based reagent monitoring system consisting of three IoT functionalities: weight scale, door access, and temperature monitoring. This system was implemented using NodeMCU ESP8266.
+- **Data Mining:**
+  Knowledgeable in data mining techniques, utilizing **Anaconda Prompt** and **Jupyter Notebook** for analyzing data.
+- **Robotics:**
+  Created projects like a **line follower robot** using **NodeMCU ESP8266**.
+- **IoT Systems:**
+  Developed an **IoT-based reagent monitoring system** consisting of three IoT functionalities: weight scale, door access, and temperature monitoring. This system was implemented using NodeMCU ESP8266.
 
 ---
 ### 🎨 **Design Skills**
