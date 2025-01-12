@@ -24,15 +24,15 @@ I'm a **4th-year IT student** passionate about coding, design, and creating impa
 - **Development:**  
   I create **web and mobile applications**, with experience in **Flutter** and **JavaScript frameworks**.  
 - **Design:**  
-  Designing **user-friendly interfaces** and **creative visual content**.
-- **Networking:**
-  Knowledgeable in networking concepts with **NCII certificates**.
-- **Data Mining:**
-  Knowledgeable in data mining techniques, utilizing **Anaconda Prompt** and **Jupyter Notebook** for analyzing data.
-- **Robotics:**
-  Created projects like a **line follower robot** using **NodeMCU ESP8266**.
-- **IoT Systems:**
-  Developed an **IoT-based reagent monitoring system** consisting of three IoT functionalities: weight scale, door access, and temperature monitoring. This system was implemented using NodeMCU ESP8266.
+  Designing **user-friendly interfaces** and **creative visual content**.  
+- **Networking:**  
+  Knowledgeable in **networking** with **NCII certificates**.  
+- **Robotics:**  
+  Created projects like a **line follower robot** using **NodeMCU ESP8266**.  
+- **IoT Systems:**  
+  Developed an **IoT-based reagent monitoring system** consisting of **three IoT functionalities**: **weight scale**, **door access**, and **temperature monitoring**. This system was implemented using **ESP**.  
+- **Data Mining:**  
+  Knowledgeable in **data mining** techniques, utilizing **Anaconda Prompt** and **Jupyter Notebook** for analyzing data.
 
 ---
 ### 🎨 **Design Skills**
