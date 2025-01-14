@@ -64,5 +64,8 @@ I'm a **4th-year IT student** passionate about coding, design, and creating impa
 ### 📫 **Get in Touch**
 - **LinkedIn:**  https://www.linkedin.com/in/mariela-navia/
 - **Email:** naviamariela113@gmail.com
-
 ---
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@sghme/30-nites-of-code)  
+  ![@sghme #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sghme)
