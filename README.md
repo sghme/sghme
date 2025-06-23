@@ -63,7 +63,7 @@ I'm a **4th-year IT student** passionate about coding, design, and creating impa
 
 ### 📫 **Get in Touch**
 - **LinkedIn:**  https://www.linkedin.com/in/mariela-navia/
-- **Email:** naviamariela113@gmail.com
+- **Email:** marielamay.navia@gmail.com
 ---
 
 ## #30NitesOfCode:
