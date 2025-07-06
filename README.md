@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a **4th-year IT student** passionate about coding, design, and creating impactful projects. Welcome to my GitHub profile!
+I'm a **BS in Information Technology** graduate with a passion for coding, design, and technology.
+I'm eager to apply my skills by building creative, useful, and user-friendly projects.
 
 ---
 
